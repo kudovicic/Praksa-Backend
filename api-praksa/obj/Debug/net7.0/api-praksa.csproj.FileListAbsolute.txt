@@ -1,0 +1,194 @@
+/Users/ivan/Projects/api-praksa/api-praksa/bin/Debug/net7.0/appsettings.Development.json
+/Users/ivan/Projects/api-praksa/api-praksa/bin/Debug/net7.0/appsettings.json
+/Users/ivan/Projects/api-praksa/api-praksa/bin/Debug/net7.0/api-praksa
+/Users/ivan/Projects/api-praksa/api-praksa/bin/Debug/net7.0/api-praksa.deps.json
+/Users/ivan/Projects/api-praksa/api-praksa/bin/Debug/net7.0/api-praksa.runtimeconfig.json
+/Users/ivan/Projects/api-praksa/api-praksa/bin/Debug/net7.0/api-praksa.dll
+/Users/ivan/Projects/api-praksa/api-praksa/bin/Debug/net7.0/api-praksa.pdb
+/Users/ivan/Projects/api-praksa/api-praksa/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/ivan/Projects/api-praksa/api-praksa/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/Users/ivan/Projects/api-praksa/api-praksa/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/ivan/Projects/api-praksa/api-praksa/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/Users/ivan/Projects/api-praksa/api-praksa/bin/Debug/net7.0/Newtonsoft.Json.dll
+/Users/ivan/Projects/api-praksa/api-praksa/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/ivan/Projects/api-praksa/api-praksa/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/ivan/Projects/api-praksa/api-praksa/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/ivan/Projects/api-praksa/api-praksa/obj/Debug/net7.0/api-praksa.csproj.AssemblyReference.cache
+/Users/ivan/Projects/api-praksa/api-praksa/obj/Debug/net7.0/api-praksa.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ivan/Projects/api-praksa/api-praksa/obj/Debug/net7.0/api-praksa.AssemblyInfoInputs.cache
+/Users/ivan/Projects/api-praksa/api-praksa/obj/Debug/net7.0/api-praksa.AssemblyInfo.cs
+/Users/ivan/Projects/api-praksa/api-praksa/obj/Debug/net7.0/api-praksa.csproj.CoreCompileInputs.cache
+/Users/ivan/Projects/api-praksa/api-praksa/obj/Debug/net7.0/api-praksa.MvcApplicationPartsAssemblyInfo.cs
+/Users/ivan/Projects/api-praksa/api-praksa/obj/Debug/net7.0/api-praksa.MvcApplicationPartsAssemblyInfo.cache
+/Users/ivan/Projects/api-praksa/api-praksa/obj/Debug/net7.0/staticwebassets/msbuild.api-praksa.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/ivan/Projects/api-praksa/api-praksa/obj/Debug/net7.0/staticwebassets/msbuild.build.api-praksa.props
+/Users/ivan/Projects/api-praksa/api-praksa/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.api-praksa.props
+/Users/ivan/Projects/api-praksa/api-praksa/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.api-praksa.props
+/Users/ivan/Projects/api-praksa/api-praksa/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/ivan/Projects/api-praksa/api-praksa/obj/Debug/net7.0/staticwebassets.build.json
+/Users/ivan/Projects/api-praksa/api-praksa/obj/Debug/net7.0/staticwebassets.development.json
+/Users/ivan/Projects/api-praksa/api-praksa/obj/Debug/net7.0/scopedcss/bundle/api-praksa.styles.css
+/Users/ivan/Projects/api-praksa/api-praksa/obj/Debug/net7.0/api-praksa.csproj.CopyComplete
+/Users/ivan/Projects/api-praksa/api-praksa/obj/Debug/net7.0/api-praksa.dll
+/Users/ivan/Projects/api-praksa/api-praksa/obj/Debug/net7.0/refint/api-praksa.dll
+/Users/ivan/Projects/api-praksa/api-praksa/obj/Debug/net7.0/api-praksa.pdb
+/Users/ivan/Projects/api-praksa/api-praksa/obj/Debug/net7.0/api-praksa.genruntimeconfig.cache
+/Users/ivan/Projects/api-praksa/api-praksa/obj/Debug/net7.0/ref/api-praksa.dll
+C:\Users\DT User\Downloads\Praksa-backend-main\api-praksa\api-praksa\obj\Debug\net7.0\api-praksa.dll
+C:\Users\DT User\Downloads\Praksa-backend-main\api-praksa\api-praksa\obj\Debug\net7.0\refint\api-praksa.dll
+C:\Users\DT User\Downloads\Praksa-backend-main\api-praksa\api-praksa\obj\Debug\net7.0\api-praksa.pdb
+C:\Users\DT User\Downloads\Praksa-backend-main\api-praksa\api-praksa\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\DT User\Downloads\Praksa-backend-main\api-praksa\api-praksa\bin\Debug\net7.0\appsettings.json
+C:\Users\DT User\Downloads\Praksa-backend-main\api-praksa\api-praksa\bin\Debug\net7.0\api-praksa.exe
+C:\Users\DT User\Downloads\Praksa-backend-main\api-praksa\api-praksa\bin\Debug\net7.0\api-praksa.deps.json
+C:\Users\DT User\Downloads\Praksa-backend-main\api-praksa\api-praksa\bin\Debug\net7.0\api-praksa.runtimeconfig.json
+C:\Users\DT User\Downloads\Praksa-backend-main\api-praksa\api-praksa\bin\Debug\net7.0\api-praksa.dll
+C:\Users\DT User\Downloads\Praksa-backend-main\api-praksa\api-praksa\bin\Debug\net7.0\api-praksa.pdb
+C:\Users\DT User\Downloads\Praksa-backend-main\api-praksa\api-praksa\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\DT User\Downloads\Praksa-backend-main\api-praksa\api-praksa\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\DT User\Downloads\Praksa-backend-main\api-praksa\api-praksa\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\DT User\Downloads\Praksa-backend-main\api-praksa\api-praksa\bin\Debug\net7.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\DT User\Downloads\Praksa-backend-main\api-praksa\api-praksa\bin\Debug\net7.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\DT User\Downloads\Praksa-backend-main\api-praksa\api-praksa\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\DT User\Downloads\Praksa-backend-main\api-praksa\api-praksa\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\DT User\Downloads\Praksa-backend-main\api-praksa\api-praksa\bin\Debug\net7.0\Microsoft.Extensions.Logging.dll
+C:\Users\DT User\Downloads\Praksa-backend-main\api-praksa\api-praksa\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\DT User\Downloads\Praksa-backend-main\api-praksa\api-praksa\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\DT User\Downloads\Praksa-backend-main\api-praksa\api-praksa\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+C:\Users\DT User\Downloads\Praksa-backend-main\api-praksa\api-praksa\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\DT User\Downloads\Praksa-backend-main\api-praksa\api-praksa\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\DT User\Downloads\Praksa-backend-main\api-praksa\api-praksa\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\DT User\Downloads\Praksa-backend-main\api-praksa\api-praksa\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\DT User\Downloads\Praksa-backend-main\api-praksa\api-praksa\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\DT User\Downloads\Praksa-backend-main\api-praksa\api-praksa\obj\Debug\net7.0\api-praksa.csproj.AssemblyReference.cache
+C:\Users\DT User\Downloads\Praksa-backend-main\api-praksa\api-praksa\obj\Debug\net7.0\api-praksa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DT User\Downloads\Praksa-backend-main\api-praksa\api-praksa\obj\Debug\net7.0\api-praksa.AssemblyInfoInputs.cache
+C:\Users\DT User\Downloads\Praksa-backend-main\api-praksa\api-praksa\obj\Debug\net7.0\api-praksa.AssemblyInfo.cs
+C:\Users\DT User\Downloads\Praksa-backend-main\api-praksa\api-praksa\obj\Debug\net7.0\api-praksa.csproj.CoreCompileInputs.cache
+C:\Users\DT User\Downloads\Praksa-backend-main\api-praksa\api-praksa\obj\Debug\net7.0\api-praksa.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\DT User\Downloads\Praksa-backend-main\api-praksa\api-praksa\obj\Debug\net7.0\api-praksa.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\DT User\Downloads\Praksa-backend-main\api-praksa\api-praksa\obj\Debug\net7.0\staticwebassets\msbuild.api-praksa.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\DT User\Downloads\Praksa-backend-main\api-praksa\api-praksa\obj\Debug\net7.0\staticwebassets\msbuild.build.api-praksa.props
+C:\Users\DT User\Downloads\Praksa-backend-main\api-praksa\api-praksa\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.api-praksa.props
+C:\Users\DT User\Downloads\Praksa-backend-main\api-praksa\api-praksa\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.api-praksa.props
+C:\Users\DT User\Downloads\Praksa-backend-main\api-praksa\api-praksa\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\DT User\Downloads\Praksa-backend-main\api-praksa\api-praksa\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\DT User\Downloads\Praksa-backend-main\api-praksa\api-praksa\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\DT User\Downloads\Praksa-backend-main\api-praksa\api-praksa\obj\Debug\net7.0\scopedcss\bundle\api-praksa.styles.css
+C:\Users\DT User\Downloads\Praksa-backend-main\api-praksa\api-praksa\obj\Debug\net7.0\api-praksa.csproj.CopyComplete
+C:\Users\DT User\Downloads\Praksa-backend-main\api-praksa\api-praksa\obj\Debug\net7.0\api-praksa.genruntimeconfig.cache
+C:\Users\DT User\Downloads\Praksa-backend-main\api-praksa\api-praksa\obj\Debug\net7.0\ref\api-praksa.dll
+C:\Users\DT User\Downloads\Praksa-backend-main\api-praksa\api-praksa\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\DT User\Downloads\Praksa-backend-main\api-praksa\api-praksa\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\DT User\Downloads\Praksa-backend-main\api-praksa\api-praksa\bin\Debug\net7.0\Dapper.dll
+C:\Users\DT User\Downloads\Praksa-backend-main\api-praksa\api-praksa\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\DT User\Downloads\Praksa-backend-main\api-praksa\api-praksa\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\DT User\Downloads\Praksa-backend-main\api-praksa\api-praksa\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\DT User\Downloads\Praksa-backend-main\api-praksa\api-praksa\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\DT User\Downloads\Praksa-backend-main\api-praksa\api-praksa\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\DT User\Downloads\Praksa-backend-main\api-praksa\api-praksa\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\DT User\Downloads\Praksa-backend-main\api-praksa\api-praksa\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\DT User\Downloads\Praksa-backend-main\api-praksa\api-praksa\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\DT User\Downloads\Praksa-backend-main\api-praksa\api-praksa\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\DT User\Downloads\Praksa-backend-main\api-praksa\api-praksa\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\DT User\Downloads\Praksa-backend-main\api-praksa\api-praksa\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\DT User\Downloads\Praksa-backend-main\api-praksa\api-praksa\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\DT User\Downloads\Praksa-backend-main\api-praksa\api-praksa\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\DT User\Downloads\Praksa-backend-main\api-praksa\api-praksa\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\DT User\Downloads\Praksa-backend-main\api-praksa\api-praksa\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\DT User\Downloads\Praksa-backend-main\api-praksa\api-praksa\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\DT User\Downloads\Praksa-backend-main\api-praksa\api-praksa\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\DT User\Downloads\Praksa-backend-main\api-praksa\api-praksa\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\DT User\Downloads\Praksa-backend-main\api-praksa\api-praksa\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\DT User\Downloads\Praksa-backend-main\api-praksa\api-praksa\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\DT User\Downloads\Praksa-backend-main\api-praksa\api-praksa\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\DT User\Downloads\Praksa-backend-main\api-praksa\api-praksa\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\DT User\Downloads\Praksa-backend-main\api-praksa\api-praksa\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DT User\Downloads\Praksa-backend-main\api-praksa\api-praksa\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DT User\Downloads\Praksa-backend-main\api-praksa\api-praksa\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DT User\Downloads\Praksa-backend-main\api-praksa\api-praksa\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DT User\Downloads\Praksa-backend-main\api-praksa\api-praksa\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\DT User\Downloads\Praksa-backend-main\api-praksa\api-praksa\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\DT User\Downloads\Praksa-backend-main\api-praksa\api-praksa\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\DT User\Downloads\Praksa-backend-main\api-praksa\api-praksa\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\DT User\Downloads\Praksa-backend-main\api-praksa\api-praksa\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\DT User\Downloads\Praksa-backend-main\api-praksa\api-praksa\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\DT User\Desktop\Praksa-backend-main\api-praksa\api-praksa\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\DT User\Desktop\Praksa-backend-main\api-praksa\api-praksa\bin\Debug\net7.0\appsettings.json
+C:\Users\DT User\Desktop\Praksa-backend-main\api-praksa\api-praksa\bin\Debug\net7.0\api-praksa.exe
+C:\Users\DT User\Desktop\Praksa-backend-main\api-praksa\api-praksa\bin\Debug\net7.0\api-praksa.deps.json
+C:\Users\DT User\Desktop\Praksa-backend-main\api-praksa\api-praksa\bin\Debug\net7.0\api-praksa.runtimeconfig.json
+C:\Users\DT User\Desktop\Praksa-backend-main\api-praksa\api-praksa\bin\Debug\net7.0\api-praksa.dll
+C:\Users\DT User\Desktop\Praksa-backend-main\api-praksa\api-praksa\bin\Debug\net7.0\api-praksa.pdb
+C:\Users\DT User\Desktop\Praksa-backend-main\api-praksa\api-praksa\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\DT User\Desktop\Praksa-backend-main\api-praksa\api-praksa\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\DT User\Desktop\Praksa-backend-main\api-praksa\api-praksa\bin\Debug\net7.0\Dapper.dll
+C:\Users\DT User\Desktop\Praksa-backend-main\api-praksa\api-praksa\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\DT User\Desktop\Praksa-backend-main\api-praksa\api-praksa\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\DT User\Desktop\Praksa-backend-main\api-praksa\api-praksa\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\DT User\Desktop\Praksa-backend-main\api-praksa\api-praksa\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\DT User\Desktop\Praksa-backend-main\api-praksa\api-praksa\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\DT User\Desktop\Praksa-backend-main\api-praksa\api-praksa\bin\Debug\net7.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\DT User\Desktop\Praksa-backend-main\api-praksa\api-praksa\bin\Debug\net7.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\DT User\Desktop\Praksa-backend-main\api-praksa\api-praksa\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\DT User\Desktop\Praksa-backend-main\api-praksa\api-praksa\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\DT User\Desktop\Praksa-backend-main\api-praksa\api-praksa\bin\Debug\net7.0\Microsoft.Extensions.Logging.dll
+C:\Users\DT User\Desktop\Praksa-backend-main\api-praksa\api-praksa\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\DT User\Desktop\Praksa-backend-main\api-praksa\api-praksa\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\DT User\Desktop\Praksa-backend-main\api-praksa\api-praksa\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+C:\Users\DT User\Desktop\Praksa-backend-main\api-praksa\api-praksa\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\DT User\Desktop\Praksa-backend-main\api-praksa\api-praksa\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\DT User\Desktop\Praksa-backend-main\api-praksa\api-praksa\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\DT User\Desktop\Praksa-backend-main\api-praksa\api-praksa\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\DT User\Desktop\Praksa-backend-main\api-praksa\api-praksa\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\DT User\Desktop\Praksa-backend-main\api-praksa\api-praksa\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\DT User\Desktop\Praksa-backend-main\api-praksa\api-praksa\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\DT User\Desktop\Praksa-backend-main\api-praksa\api-praksa\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\DT User\Desktop\Praksa-backend-main\api-praksa\api-praksa\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\DT User\Desktop\Praksa-backend-main\api-praksa\api-praksa\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\DT User\Desktop\Praksa-backend-main\api-praksa\api-praksa\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\DT User\Desktop\Praksa-backend-main\api-praksa\api-praksa\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\DT User\Desktop\Praksa-backend-main\api-praksa\api-praksa\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\DT User\Desktop\Praksa-backend-main\api-praksa\api-praksa\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\DT User\Desktop\Praksa-backend-main\api-praksa\api-praksa\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\DT User\Desktop\Praksa-backend-main\api-praksa\api-praksa\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\DT User\Desktop\Praksa-backend-main\api-praksa\api-praksa\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\DT User\Desktop\Praksa-backend-main\api-praksa\api-praksa\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\DT User\Desktop\Praksa-backend-main\api-praksa\api-praksa\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\DT User\Desktop\Praksa-backend-main\api-praksa\api-praksa\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\DT User\Desktop\Praksa-backend-main\api-praksa\api-praksa\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\DT User\Desktop\Praksa-backend-main\api-praksa\api-praksa\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\DT User\Desktop\Praksa-backend-main\api-praksa\api-praksa\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\DT User\Desktop\Praksa-backend-main\api-praksa\api-praksa\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\DT User\Desktop\Praksa-backend-main\api-praksa\api-praksa\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\DT User\Desktop\Praksa-backend-main\api-praksa\api-praksa\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DT User\Desktop\Praksa-backend-main\api-praksa\api-praksa\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DT User\Desktop\Praksa-backend-main\api-praksa\api-praksa\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DT User\Desktop\Praksa-backend-main\api-praksa\api-praksa\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DT User\Desktop\Praksa-backend-main\api-praksa\api-praksa\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\DT User\Desktop\Praksa-backend-main\api-praksa\api-praksa\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\DT User\Desktop\Praksa-backend-main\api-praksa\api-praksa\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\DT User\Desktop\Praksa-backend-main\api-praksa\api-praksa\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\DT User\Desktop\Praksa-backend-main\api-praksa\api-praksa\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\DT User\Desktop\Praksa-backend-main\api-praksa\api-praksa\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\DT User\Desktop\Praksa-backend-main\api-praksa\api-praksa\obj\Debug\net7.0\api-praksa.csproj.AssemblyReference.cache
+C:\Users\DT User\Desktop\Praksa-backend-main\api-praksa\api-praksa\obj\Debug\net7.0\api-praksa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DT User\Desktop\Praksa-backend-main\api-praksa\api-praksa\obj\Debug\net7.0\api-praksa.AssemblyInfoInputs.cache
+C:\Users\DT User\Desktop\Praksa-backend-main\api-praksa\api-praksa\obj\Debug\net7.0\api-praksa.AssemblyInfo.cs
+C:\Users\DT User\Desktop\Praksa-backend-main\api-praksa\api-praksa\obj\Debug\net7.0\api-praksa.csproj.CoreCompileInputs.cache
+C:\Users\DT User\Desktop\Praksa-backend-main\api-praksa\api-praksa\obj\Debug\net7.0\api-praksa.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\DT User\Desktop\Praksa-backend-main\api-praksa\api-praksa\obj\Debug\net7.0\api-praksa.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\DT User\Desktop\Praksa-backend-main\api-praksa\api-praksa\obj\Debug\net7.0\staticwebassets\msbuild.api-praksa.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\DT User\Desktop\Praksa-backend-main\api-praksa\api-praksa\obj\Debug\net7.0\staticwebassets\msbuild.build.api-praksa.props
+C:\Users\DT User\Desktop\Praksa-backend-main\api-praksa\api-praksa\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.api-praksa.props
+C:\Users\DT User\Desktop\Praksa-backend-main\api-praksa\api-praksa\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.api-praksa.props
+C:\Users\DT User\Desktop\Praksa-backend-main\api-praksa\api-praksa\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\DT User\Desktop\Praksa-backend-main\api-praksa\api-praksa\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\DT User\Desktop\Praksa-backend-main\api-praksa\api-praksa\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\DT User\Desktop\Praksa-backend-main\api-praksa\api-praksa\obj\Debug\net7.0\scopedcss\bundle\api-praksa.styles.css
+C:\Users\DT User\Desktop\Praksa-backend-main\api-praksa\api-praksa\obj\Debug\net7.0\api-praksa.csproj.CopyComplete
+C:\Users\DT User\Desktop\Praksa-backend-main\api-praksa\api-praksa\obj\Debug\net7.0\api-praksa.dll
+C:\Users\DT User\Desktop\Praksa-backend-main\api-praksa\api-praksa\obj\Debug\net7.0\refint\api-praksa.dll
+C:\Users\DT User\Desktop\Praksa-backend-main\api-praksa\api-praksa\obj\Debug\net7.0\api-praksa.pdb
+C:\Users\DT User\Desktop\Praksa-backend-main\api-praksa\api-praksa\obj\Debug\net7.0\api-praksa.genruntimeconfig.cache
+C:\Users\DT User\Desktop\Praksa-backend-main\api-praksa\api-praksa\obj\Debug\net7.0\ref\api-praksa.dll
